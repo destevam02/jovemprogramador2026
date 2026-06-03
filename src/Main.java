@@ -14,7 +14,7 @@ public class Main {
 
             Statement stmt = conexao.createStatement(); // siginifica separação, deixa pronto a declaração
 
-            System.out.println("Digite o nome: ");
+            System.out.println("Digite o Nome: ");
             String nome = sc.nextLine();
             System.out.println("Digite o email: ");
             String email = sc.nextLine();
